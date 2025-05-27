@@ -15,7 +15,7 @@ Clasificar la calidad de manzanas (good/bad) con base en variables físico-quím
 
 ## Conclusiones y Recomendaciones 🚀
 
-- El modelo que obtuvo mejor desempeño fue: **Árbol de Decisión** (accuracy: XX%)
-- Las variables más influyentes fueron: **Sweetness**, **Crunchiness** y **Acidity**
-- Se eliminaron ~21% de los registros por limpieza, conservando una muestra robusta (3155 registros)
+- El modelo que obtuvo mejor desempeño fue: **Árbol de Decisión** (accuracy: 87%)
+- Las variables más influyentes fueron: Tamaño y madurez
+- Se eliminaron ~11% de los registros por limpieza, conservando una muestra robusta (3543 registros)
 - Se recomienda recopilar más datos para mejorar la cobertura de casos extremos sin perder validez
